@@ -35,8 +35,8 @@
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HatfanSahrul1&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatfanSahrul1&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HatfanSahrul1&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HatfanSahrul1&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
 </div>
 
 ### 🐍 Contribution Snake
